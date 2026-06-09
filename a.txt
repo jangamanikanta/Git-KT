@@ -1,0 +1,2 @@
+  nano filename ---> ctrl + s ( to save the content insider the file)
+                   ctrl + x ( to exit from the file )
